@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\monitoringcredentialgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:monitoringcredentialgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\cosmic.monitoring.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:cosmic.monitoring.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\dataringconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:dataringconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\imonitoringcredentialgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:imonitoringcredentialgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\workspaceinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:workspaceinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\iworkspaceinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:iworkspaceinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\workspaceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:workspaceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\dataring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:dataring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\nuget.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:nuget.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|c:\\users\\t-lnuvinita\\desktop\\cosmic.monitoring.library\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4C16D9C-8450-4A12-8E74-5BE8E9603A7B}|Cosmic.Monitoring.Library.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitoringCredentialGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\MonitoringCredentialGenerator.cs",
+              "RelativeDocumentMoniker": "MonitoringCredentialGenerator.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\MonitoringCredentialGenerator.cs",
+              "RelativeToolTip": "MonitoringCredentialGenerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:46:09.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMonitoringCredentialGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\IMonitoringCredentialGenerator.cs",
+              "RelativeDocumentMoniker": "IMonitoringCredentialGenerator.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\IMonitoringCredentialGenerator.cs",
+              "RelativeToolTip": "IMonitoringCredentialGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:30.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataRingConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\DataRingConfigurations.cs",
+              "RelativeDocumentMoniker": "DataRingConfigurations.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\DataRingConfigurations.cs",
+              "RelativeToolTip": "DataRingConfigurations.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:29:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cosmic.Monitoring.Library.csproj",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\Cosmic.Monitoring.Library.csproj",
+              "RelativeDocumentMoniker": "Cosmic.Monitoring.Library.csproj",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\Cosmic.Monitoring.Library.csproj",
+              "RelativeToolTip": "Cosmic.Monitoring.Library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T07:25:09.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkspaceInfoProvider.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\WorkspaceInfoProvider.cs",
+              "RelativeDocumentMoniker": "WorkspaceInfoProvider.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\WorkspaceInfoProvider.cs",
+              "RelativeToolTip": "WorkspaceInfoProvider.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:46:15.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorkspaceInfoProvider.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\IWorkspaceInfoProvider.cs",
+              "RelativeDocumentMoniker": "IWorkspaceInfoProvider.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\IWorkspaceInfoProvider.cs",
+              "RelativeToolTip": "IWorkspaceInfoProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:17:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkspaceInfo.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\WorkspaceInfo.cs",
+              "RelativeDocumentMoniker": "WorkspaceInfo.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\WorkspaceInfo.cs",
+              "RelativeToolTip": "WorkspaceInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:24.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataRing.cs",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\DataRing.cs",
+              "RelativeDocumentMoniker": "DataRing.cs",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\DataRing.cs",
+              "RelativeToolTip": "DataRing.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NuGet.config",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\NuGet.config",
+              "RelativeDocumentMoniker": "NuGet.config",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\NuGet.config",
+              "RelativeToolTip": "NuGet.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T10:25:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NuGet.config",
+              "DocumentMoniker": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\NuGet.config",
+              "RelativeDocumentMoniker": "NuGet.config",
+              "ToolTip": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\NuGet.config",
+              "RelativeToolTip": "NuGet.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T10:18:19.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

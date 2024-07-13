@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\Cosmic.Monitoring.Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\Cosmic.Monitoring.Library.csproj": {
+      "version": "1.6.1",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\Cosmic.Monitoring.Library.csproj",
+        "projectName": "Cross-Cloud-Logging-Library",
+        "projectPath": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\Cosmic.Monitoring.Library.csproj",
+        "packagesPath": "C:\\Users\\t-lnuvinita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\t-lnuvinita\\Desktop\\Cosmic.Monitoring.Library\\NuGet.Config",
+          "C:\\Users\\t-lnuvinita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://pkgs.dev.azure.com/o365exchange/_packaging/M365Common/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5104"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Core": {
+              "target": "Package",
+              "version": "[1.40.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Azure.Monitor.Query": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Azure.ResourceManager": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "Azure.ResourceManager.OperationalInsights": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Azure.Security.KeyVault.Certificates": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Azure.Security.KeyVault.Keys": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.34.0, )"
+            },
+            "System.Security.Cryptography.X509Certificates": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\target\sources\dev\cosmic.loganalytics.lib\Debug\netstandard2.0\Cosmic.Monitoring.Lib.deps.json
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\target\sources\dev\cosmic.loganalytics.lib\Debug\netstandard2.0\Cosmic.Monitoring.Lib.dll
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\target\sources\dev\cosmic.loganalytics.lib\Debug\netstandard2.0\Cosmic.Monitoring.Lib.pdb
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\Cosmic.Monitoring.Lib.csproj.AssemblyReference.cache
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\Cosmic.Monitoring.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\Cosmic.Monitoring.Lib.csproj.CoreCompileInputs.cache
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\Cosmic.Monitoring.Lib.sourcelink.json
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\Cosmic.Monitoring.Lib.dll
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\refint\Cosmic.Monitoring.Lib.dll
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\Cosmic.Monitoring.Lib.pdb
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\netstandard2.0\ref\Cosmic.Monitoring.Lib.dll

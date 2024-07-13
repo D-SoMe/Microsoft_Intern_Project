@@ -1,0 +1,4 @@
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\cosmic.loganalytics.lib.csproj.AssemblyReference.cache
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\cosmic.loganalytics.lib.csproj.CoreCompileInputs.cache
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\cosmic.loganalytics.lib.AssemblyInfoInputs.cache
+C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\cosmic.loganalytics.lib\obj\Debug\cosmic.loganalytics.lib.AssemblyInfo.cs

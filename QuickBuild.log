@@ -1,0 +1,105 @@
+2024-06-17 16:58:04,856 [13] INFO  Starting BeginBuild
+2024-06-17 16:58:04,857 [13] DEBUG Not a CoreXT environment because one or more of the following environment variables are missing: OBJECT_ROOT: '', INETROOT: '', BUILD_COREXT: ''
+2024-06-17 16:58:04,857 [13] DEBUG Found CloudBuild.json in C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane
+2024-06-17 16:58:04,857 [13] DEBUG Detected a config-based build environment
+2024-06-17 16:58:04,857 [13] DEBUG Found CloudBuild.json in C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane
+2024-06-17 16:58:04,857 [13] DEBUG Found config file at C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\CloudBuild.json, deserializing.
+2024-06-17 16:58:04,857 [13] DEBUG Found NugetRepositoryPath of packages in C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\NuGet.config
+2024-06-17 16:58:04,857 [13] DEBUG BuildEnvironment creation took 71 ms
+2024-06-17 16:58:04,857 [13] DEBUG Defaulting Parser to V2 based on build environment
+2024-06-17 16:58:04,857 [13] DEBUG Defaulting Sandbox to Detours based on build environment
+2024-06-17 16:58:04,857 [13] DEBUG Setting command line -MSBuildPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\MSBuild.exe' hint into BuildEnvironment
+2024-06-17 16:58:04,857 [13] WARN  The MSBuild version configured in your CloudBuild.json (17.9) is older than the one you're using (17.10). Please upgrade the version in your CloudBuild.json.
+2024-06-17 16:58:04,857 [13] DEBUG Changelist coverage is set to False in this build.
+2024-06-17 16:58:04,857 [13] DEBUG Turning off QTest-VM feature for local build.
+2024-06-17 16:58:04,857 [13] DEBUG Loaded QTest branch configuration  with the following options: ConfigPath = 
+DoNotUseLocalAdmin = False
+ConcurrentSqlLocalDbTests = 1
+CustomVsTestConsole = 
+CustomTaefRunner = 
+GenerateDynCoverageForAllModules = True
+AllowLocalAdminForSqlLocalDbTests = False
+CopySandBoxForAllTargets = Always
+QTestWeight = 0
+ConsoleRunnerCheckReturnCode = False
+ConcurrentCoverageTests = 3
+ConcurrentVMTests = 7
+CopyChangelistDpkToSandbox = False
+InstrumentedPdbRoot = 
+TestCaseTimeoutMs = 0
+TestCaseTimeoutUnderInstrumentationMs = 0
+
+2024-06-17 16:58:04,857 [13] DEBUG UsePredictedOutputPath was not provided, so defaulting to True based on ParserMode V2
+2024-06-17 16:58:04,857 [13] DEBUG Setting ParserTrackTargetInputOutputs to true based on ConfigBased build environment
+2024-06-17 16:58:04,857 [13] DEBUG No value provided for UseSharedCompilation, so defaulting to True.
+2024-06-17 16:58:04,857 [13] DEBUG Defaulting EnableMSBuildParallelism to True
+2024-06-17 16:58:04,870 [13] DEBUG QuickBuild Release Stage: Production (unset)
+2024-06-17 16:58:04,875 [13] INFO  QuickBuild Version: 893ad4486c4e1bf6fda18b44b6c231e70f582171
+2024-06-17 16:58:05,047 [13] DEBUG Using discovered git.exe at C:\Program Files\Git\cmd\git.exe.
+2024-06-17 16:58:05,171 [9] INFO  Starting cache...
+2024-06-17 16:58:05,172 [9] DEBUG Found cache config file: C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\qconfig\CloudBuildCacheConfiguration.json
+2024-06-17 16:58:05,432 [7] DEBUG Creating hasher
+2024-06-17 16:58:05,432 [7] DEBUG Found config file at C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\build\config\global_impact_hashes.json, deserializing.
+2024-06-17 16:58:05,434 [11] DEBUG Setting MSBUILD_EXE_PATH to C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\amd64\MSBuild.exe
+2024-06-17 16:58:05,441 [7] DEBUG Hasher: Getting hashes for source control
+2024-06-17 16:58:05,442 [12] DEBUG Hasher: Open source files query took 0 msec
+2024-06-17 16:58:05,442 [16] DEBUG Hasher: source control source files to ignore query took 0 msec
+2024-06-17 16:58:05,444 [10] DEBUG Hasher: non source control source files query took 2 msec
+2024-06-17 16:58:05,636 [11] INFO  Parsing build files...
+2024-06-17 16:58:05,737 [11] DEBUG Using parse entry points: C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane\sources\dev\Cosmic.Monitoring.Library\Cosmic.Monitoring.Library.csproj
+2024-06-17 16:58:05,778 [9] DEBUG GetPreauthenticatedUrisAsync start. SourceControlUrl=[https://o365exchange.visualstudio.com/O365 Core/_git/CosmicMgmtPlane], Endpoint=[https://cloudbuild.microsoft.com/devcache/GetUris], CorrelationId=[9bd39c6b6e437df75de9b7fc082cff7c-07df5bb561697a6e]
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\Cosmic.Monitoring.Library.csproj.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\DataRing.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\DataRingManager.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\ITokenGenerator.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\IWorkspaceInfoProvider.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\Properties\AssemblyInfo.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\TokenGenerator.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\WorkspaceInfo.cs.
+2024-06-17 16:58:05,833 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\WorkspaceInfoProvider.cs.
+2024-06-17 16:58:05,834 [10] DEBUG Found modified file sources\dev\cosmic.loganalytics.lib\cosmic.loganalytics.lib.sln.
+2024-06-17 16:58:05,949 [10] DEBUG 5201 files Rehashing 10 modified files took 60 msec
+2024-06-17 16:58:05,951 [10] DEBUG git.exe ls-files (@C:\Users\t-lnuvinita\Desktop\CosmicMgmtPlane) took 507.55 msec
+2024-06-17 16:58:05,952 [10] DEBUG Hasher: Base source files query took 510 msec
+2024-06-17 16:58:05,957 [17] DEBUG Latest QuickBuild version: 893ad4486c4e1bf6fda18b44b6c231e70f582171
+2024-06-17 16:58:05,957 [17] DEBUG QuickBuild is up to date
+2024-06-17 16:58:05,976 [10] DEBUG PathTree filling of 5201 entries took 12ms at parallelism 6
+2024-06-17 16:58:05,983 [10] DEBUG Created hasher in 00:00:00.5502891
+2024-06-17 16:58:06,686 [19] DEBUG Attempting to acquire the token silently with t-lnuvinita@microsoft.com.
+2024-06-17 16:58:08,558 [9] DEBUG GetPreauthenticatedUrisAsync stop 2780ms. SourceControlUrl=[https://o365exchange.visualstudio.com/O365 Core/_git/CosmicMgmtPlane], Endpoint=[https://cloudbuild.microsoft.com/devcache/GetUris], ActivityId=[9bd39c6b6e437df75de9b7fc082cff7c-07df5bb561697a6e], StatusCode=[OK]
+2024-06-17 16:58:17,983 [11] INFO  Constructed project graph with 1 build files in 12.35s.
+2024-06-17 16:58:18,462 [11] INFO  Executed project prediction on 1 build files in 0.48s.
+2024-06-17 16:58:18,462 [11] DEBUG Adding producers for inputs which are under generated directories...
+2024-06-17 16:58:18,462 [11] DEBUG Completed adding producers for inputs which are under generated directories in 0.00s.
+2024-06-17 16:58:18,464 [11] INFO  Completed parsing.
+2024-06-17 16:58:18,465 [11] DEBUG BuildCop: Starting Dependency Analysis
+2024-06-17 16:58:18,467 [11] DEBUG BuildCop: Running 1 built-in rules on 1 targets
+2024-06-17 16:58:18,469 [11] DEBUG BuildCop: IRule DBS.BuildAnalysis.CircularDependencyDetectionRule on 1 targets finished in 1 ms (parallel processing time)
+2024-06-17 16:58:18,469 [11] DEBUG BuildCop: Built-in rules passed in 1 ms
+2024-06-17 16:58:18,470 [11] DEBUG BuildCop: Running 0 extension rules on 1 targets
+2024-06-17 16:58:18,470 [11] DEBUG BuildCop: Extension rules passed in 0 ms
+2024-06-17 16:58:18,470 [11] DEBUG BuildCop: Running 0 extension tree rules
+2024-06-17 16:58:18,470 [11] DEBUG BuildCop: Extension tree rules passed in 0 ms
+2024-06-17 16:58:18,470 [11] DEBUG BuildCop: Dependency Analysis passed in 5 ms
+2024-06-17 16:58:18,470 [11] DEBUG BuildCop: Syntax Analysis passed
+2024-06-17 16:58:18,470 [11] INFO  BuildCop summary: 0 errors, 0 warnings
+2024-06-17 16:58:30,180 [16] INFO  Started cache in 25008 ms.
+2024-06-17 16:58:30,182 [7] INFO  Creating cache session...
+2024-06-17 16:58:30,189 [16] DEBUG Not including secrets in hash computation.
+2024-06-17 16:58:30,193 [16] DEBUG Global Impact Hash is: DA1B433E86E43E206E71095753CB0D48
+2024-06-17 16:58:30,194 [16] DEBUG Historic perf data. Hash:C27832CA1C99E4CDB0520F4CE4935878
+Calculation:
+  Dimension: Debug_Amd64
+  HistoricalDataEpoch:1
+2024-06-17 16:58:30,195 [16] INFO  Created GlobalBuildData
+2024-06-17 16:58:30,197 [16] INFO  Generating dependency graph...
+2024-06-17 16:58:30,248 [7] INFO  Created cache session in 65 ms.
+2024-06-17 16:58:30,335 [16] INFO  1 projects are included in build and 0 are excluded. Total build files parsed: 1. Total targets created: 1.
+2024-06-17 16:58:30,418 [16] INFO  BeginBuild completed successfully in 26.3727273 seconds.
+2024-06-17 16:58:33,852 [9] INFO  Starting EndBuild
+2024-06-17 16:58:34,234 [9] DEBUG DevBuildInfo event sent to Aria.
+2024-06-17 16:58:34,332 [16] DEBUG HashCalculationDump::CompleteAsync took 98ms
+2024-06-17 16:58:34,518 [35] DEBUG Download HashCalculationDump Failed. Error: Could not find a common ancestor commit using VSTS. As a result, WhyCacheMiss is unsupported for this scenario.
+2024-06-17 16:58:34,553 [35] INFO  EndBuild completed successfully in 0.7008502 seconds.
+2024-06-17 16:58:34,553 [35] DEBUG ProjectCachePluginInvocation event sent to aria.
+2024-06-17 16:58:35,783 [12] DEBUG Releasing global lock
